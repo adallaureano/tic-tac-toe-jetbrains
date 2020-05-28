@@ -1,2 +1,2 @@
 # tic-tac-toe-jetbrains
-javal lessons
+java lessons
